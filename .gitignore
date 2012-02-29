@@ -1,0 +1,7 @@
+## Python Class
+*.pyc
+
+## Backup Files
+*.old
+*.bak
+
